@@ -44,5 +44,5 @@ QuickFix is a modern, service-based web platform designed for home maintenance a
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/quickfix-admin.git
-   cd quickfix-admin
+   git clone https://github.com/your-username/quickfix-website.git
+   cd quickfix-website
